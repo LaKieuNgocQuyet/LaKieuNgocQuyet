@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <p align="justify">
 My full name is La Kieu Ngoc Quyet. I’m not a professional software developer. I like to think of myself as a "vibe developer". I build software out of curiosity, inspiration, and the simple joy of creating something that works. In my opinion, coding isn’t about deadlines, clients, or commercial goals; it’s more like painting or playing music — a way to express ideas and turn imagination into something real. Most of my projects start as small experiments, random thoughts, or problems I find interesting. Sometimes they grow into useful tools; sometimes they’re just digital doodles that make me happy.Either way, each one teaches me something new.
 </p>
-<br>
 <p align="justify">
 I code in my free time, when inspiration strikes, not because I have to, but because it feels good to build. That’s what being a vibe developer means to me.
 </p>
